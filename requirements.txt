@@ -1,0 +1,5 @@
+colorama==0.4.6
+termcolor==2.3.0
+pyfiglet
+openai
+llama-index==0.6.0
